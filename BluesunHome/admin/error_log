@@ -1,0 +1,29 @@
+[18-May-2021 14:59:01 UTC] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/kellymidia/public_html/teste/site/admin/index.php on line 3
+[18-May-2021 15:01:08 UTC] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/kellymidia/public_html/teste/site/admin/index.php on line 3
+[18-May-2021 15:15:12 UTC] PHP Warning:  unlink(../img/logo-marcas/263868.pdf): No such file or directory in /home/kellymidia/public_html/teste/site/admin/datasheets-edt.php on line 52
+[18-May-2021 15:38:59 UTC] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/kellymidia/public_html/teste/site/admin/index.php on line 3
+[18-May-2021 15:39:38 UTC] PHP Warning:  unlink(../assets/pdf/951234.pdf): No such file or directory in /home/kellymidia/public_html/teste/site/admin/datasheets-edt.php on line 52
+[18-May-2021 17:09:32 UTC] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/kellymidia/public_html/teste/site/admin/franqueados-edt.php on line 3
+[18-May-2021 18:02:59 UTC] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/kellymidia/public_html/teste/site/admin/index.php on line 3
+[19-May-2021 10:55:37 UTC] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/kellymidia/public_html/home/admin/index.php on line 3
+[19-May-2021 10:56:40 UTC] PHP Warning:  unlink(../assets/pdf/837055.pdf): No such file or directory in /home/kellymidia/public_html/home/admin/datasheets-edt.php on line 52
+[19-May-2021 11:06:59 UTC] PHP Notice:  Undefined index: usuarioNiveisAcessoId in /home/kellymidia/public_html/home/admin/index.php on line 3
+[20-May-2021 16:24:11 America/Fortaleza] PHP Warning:  unlink(../img/usuarios/327266.jpg): No such file or directory in /home3/bluesu66/public_html/home/admin/usuarios_edit.php on line 54
+[20-May-2021 16:24:28 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/perfil.php:12) in /home3/bluesu66/public_html/home/admin/perfil.php on line 211
+[20-May-2021 16:26:25 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/perfil.php:12) in /home3/bluesu66/public_html/home/admin/perfil.php on line 211
+[20-May-2021 16:27:17 America/Sao_Paulo] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/perfil.php:12) in /home3/bluesu66/public_html/home/admin/perfil.php on line 211
+[21-May-2021 08:40:24 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios-adc.php:12) in /home3/bluesu66/public_html/home/admin/usuarios-adc.php on line 88
+[21-May-2021 08:41:15 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios.php:12) in /home3/bluesu66/public_html/home/admin/usuarios.php on line 28
+[21-May-2021 08:41:53 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios-adc.php:12) in /home3/bluesu66/public_html/home/admin/usuarios-adc.php on line 88
+[21-May-2021 08:46:31 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios-adc.php:12) in /home3/bluesu66/public_html/home/admin/usuarios-adc.php on line 88
+[21-May-2021 08:47:55 America/Fortaleza] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'teste@teste.com' for key 'email' in /home3/bluesu66/public_html/home/admin/usuarios-adc.php:85
+Stack trace:
+#0 /home3/bluesu66/public_html/home/admin/usuarios-adc.php(85): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/bluesu66/public_html/home/admin/usuarios-adc.php on line 85
+[21-May-2021 08:48:12 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios.php:12) in /home3/bluesu66/public_html/home/admin/usuarios.php on line 28
+[21-May-2021 08:48:44 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios-adc.php:12) in /home3/bluesu66/public_html/home/admin/usuarios-adc.php on line 88
+[21-May-2021 08:48:51 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios.php:12) in /home3/bluesu66/public_html/home/admin/usuarios.php on line 28
+[21-May-2021 08:49:12 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios.php:12) in /home3/bluesu66/public_html/home/admin/usuarios.php on line 28
+[21-May-2021 08:50:50 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios.php:12) in /home3/bluesu66/public_html/home/admin/usuarios.php on line 28
+[21-May-2021 08:51:27 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/bluesu66/public_html/home/admin/usuarios.php:12) in /home3/bluesu66/public_html/home/admin/usuarios.php on line 28

@@ -1,0 +1,1 @@
+[19-May-2021 12:18:13 America/Fortaleza] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/bluesu66/public_html/franqueados/conn/conexion.php on line 9

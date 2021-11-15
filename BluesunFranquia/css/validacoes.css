@@ -1,0 +1,215 @@
+.about-banner {
+	height: 140px;
+	margin-bottom: 40px;
+}
+#autorizado-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#cpf-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#cpf2-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#empresa-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#rgrne-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#oemissor-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#telcel-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#dataemiss-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#cep-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#endereco-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#bairro-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#cidade-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#uf-error {
+	font-size: 13px;
+	color: #FF0000;
+}
+#nacao-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#cidnascimento-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#ufnascimento-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#sexo-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#data-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#estcivil-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#celular-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#email-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#mae-error {
+	background-color: #F3E2A9;
+	font-size: .8em;
+	border: 1px solid #FAAC58;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#senha-error {
+	background-color: #F5A9A9;
+	border: 1px solid #FA5858;
+	font-size: .8em;
+	font-weight: bold;
+	color: #333;
+	padding: 3px;
+	width: 100%;
+}
+#repete_senha-error {
+	background-color: #F5A9A9;
+	border: 1px solid #FA5858;
+	font-size: .8em;
+	font-weight: bold;
+	color: #333;
+	padding: 5px;
+	width: 100%;
+}
